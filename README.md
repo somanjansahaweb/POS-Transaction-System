@@ -1,4 +1,3 @@
-
 🏪 Project Overview: Cafe Management System in Python
 
 The Cafe Management System is a Python-based program designed to manage basic operations of a café — such as taking customer orders, calculating bills, and displaying available menu items. It provides an interactive experience through the console where users can easily select items, view totals, and get their final bill.
