@@ -1,7 +1,3 @@
-Here’s a detailed overview of your Cafe Management System Project in Python — written in a professional and descriptive tone that you can use for your GitHub README or project documentation 👇
-
-
----
 
 🏪 Project Overview: Cafe Management System in Python
 
