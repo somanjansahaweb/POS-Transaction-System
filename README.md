@@ -64,7 +64,7 @@ To build programming logic and problem-solving skills using functions and loops.
 
 🧠 Learning Outcomes
 
-By working on this project, you strengthen your understanding of:
+By working on this project, i strengthen my understanding of:
 
 Practical use of dictionaries and sets for data handling
 
